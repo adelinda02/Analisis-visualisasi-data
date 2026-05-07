@@ -1,2 +1,2 @@
 # ade-linda
-tugas analisis dan visualisasi data 
+tugas gen ai dan analisis visualisasi data
